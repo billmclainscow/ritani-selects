@@ -1,0 +1,17 @@
+
+{{ partial "header.html" . }}
+
+<!-- {{ $products := getJSON "/data/products.json" }} -->
+<main class="products">
+  <img src="/images/icons/cheese-background.svg" alt="" class="background-image">
+  <div class="promotional-message">
+    <h3>DISCOVER</h3>
+    <h2>Engagement Rings</h2>
+    <p>Get started by telling us a little bit about what you're looking for.</p>
+  </div>
+  {{ range where .Site.RegularPages "Section" "products"}}
+    {{ partial "product.html" .Params }}
+  {{ end }}
+</main>
+
+{{ partial "footer.html" . }}
