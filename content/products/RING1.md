@@ -6,7 +6,7 @@ diamond_cut = "Ideal"
 id = "RING1"
 image = "/images/ring.jpg"
 name = "Beautiful Engagement Ring"
-price = nil
+price = 10618
 product_url = "http://www.ritani.com"
 
 +++
