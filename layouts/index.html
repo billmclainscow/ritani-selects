@@ -9,9 +9,11 @@
     <h2>Engagement Rings</h2>
     <p>Get started by telling us a little bit about what you're looking for.</p>
   </div>
+
   {{ range where .Site.RegularPages "Section" "products"}}
     {{ partial "product.html" .Params }}
   {{ end }}
+
 </main>
 
 {{ partial "footer.html" . }}

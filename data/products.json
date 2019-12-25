@@ -1,30 +1,10 @@
-[{
-  "id": "RING1",
-  "name": "Amazing Ring #1",
-  "price": 9299.00,
-  "image": "/images/ring.jpg",
-  "description": "Want to step up your cheese game? Try our mild, yellow Gouda Wheel. This cheese is made in the Netherlands with raw cow milk.",
-  "url": "http://snipcart-hugo-forestery.netlify.com"
-}, {
-  "id": "RING2",
-  "name": "Fantastic Ring #2",
-  "description": "Made out of highest graded ingredients, this cheese has been aged for three months and is sure you leave you with a sharp-tasting, natural taste.",
-  "price": 4495.00,
-  "image": "/images/ring.jpg",
-  "url": "http://snipcart-hugo-forestery.netlify.com"
-},
-{
-  "id": "RING3",
-  "name": "Super Awesome Ring #3",
-  "price": 8995.00,
-  "image": "/images/ring.jpg",
-  "description": "Native from France, this cheese is soft, moist and creamy. It is similar to Brie, but with higher fat content. Best paired with a sweet, crispy biscuit.",
-  "url": "http://snipcart-hugo-forestry.netlify.com"
-}, {
-  "id": "RING4",
-  "name": "Beautiful Ring #3",
-  "description": "This long-aged cheese made with Penicillium mould is sure to be one of the stinkiest and strong tasting cheese. It comes with one of the best marbling available on the market.",
-  "price": 6040.00,
-  "image": "/images/ring.jpg",
-  "url": "http://snipcart-hugo-forestry.netlify.com"
-}]
+[
+  {
+    "id": "RING2L",
+    "name": "Beautiful Ring",
+    "price": 6299.95,
+    "image": "/images/ring.jpg",
+    "description": "This is a beautiful ring that everybody loves.",
+    "product_url": "http://www.google.com"
+  }
+]
