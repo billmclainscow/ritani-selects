@@ -1,7 +1,7 @@
 +++
-date = "2019-04-10T15:48:38+00:00"
+date = 2019-12-25T05:00:00Z
 description = "This is an absolutely wonderful ring that everybody loves."
-id = "BLUE_CHEESE"
+id = "RING1"
 image = "/uploads/ring.jpg"
 name = "Awesome Ring #1"
 price = 1207.95
